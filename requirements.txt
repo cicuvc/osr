@@ -1,0 +1,16 @@
+albumentations==2.0.8
+einops==0.8.2
+flash_attn==2.8.4
+flash-linear-attention==0.4.2
+h5py==3.16.0
+loguru==0.7.3
+matplotlib==3.10.8
+numpy==2.2.6
+opencv-python==4.12.0.88
+pillow==12.0.0
+pytorch_lightning==2.6.1
+safetensors==0.7.0
+tensorboard==2.20.0
+torch==2.10.0
+wandb==0.25.0
+yacs==0.1.8
